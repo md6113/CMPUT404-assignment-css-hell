@@ -1,0 +1,44 @@
+pre {
+  font-size: 8pt;
+  font-style: italic;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  padding-top: 3em;
+  text-align: center;
+}
+
+body {
+  background-color: #f4e1d2;
+  color: #50394c;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 3%;
+  width: auto;
+  border: 8px solid #3e2b14;
+  padding: 4px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: "Garamond", serif;
+}
+
+.centered {
+  text-align: center;
+  font-size: 100%;
+}
